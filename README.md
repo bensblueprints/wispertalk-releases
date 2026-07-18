@@ -1,5 +1,10 @@
 # WisperTalk Releases
 
+## Demo
+
+https://github.com/user-attachments/assets/ac518e9a-a8a3-4763-a766-f0aaaecfebbf
+
+
 Public release artifacts for [WisperTalk](https://wispertalk.com), the voice-dictation app for Windows and macOS.
 
 This repo holds **only built binaries** — `.exe` for Windows, `.dmg` and `.zip` for macOS, plus autoupdater feeds.
