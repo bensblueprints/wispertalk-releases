@@ -2,7 +2,11 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/ac518e9a-a8a3-4763-a766-f0aaaecfebbf
+
+
+https://github.com/user-attachments/assets/bab39c98-a6c3-4a98-a551-05f2263a0449
+
+
 
 
 Public release artifacts for [WisperTalk](https://wispertalk.com), the voice-dictation app for Windows and macOS.
